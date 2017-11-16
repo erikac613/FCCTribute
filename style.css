@@ -1,0 +1,33 @@
+body {
+  margin-top: 60px;
+}
+
+.honeydew-background 
+    {background-color: honeydew;
+ }
+  .black-border
+  {border-color: black;
+    border-width: 5px;
+    border-style: solid;
+  }
+  .top-border {border-top: solid .5px;
+  }
+  h1 {font-family: BangkokBold;
+    font-size: 50px;
+  }
+  h2 {font-family: BangkokBold;
+    font-size: 25px;
+  }
+  p {font-family: BangkokBold;
+    font-size: 22px;
+    margin: 0 auto;
+}
+  ul {font-family: Bangkok;
+    margin: 0 auto;
+}
+  img {display: block;
+    margin: 0 auto;
+ }
+  h3 {;
+  font-size: 20px;
+ }
