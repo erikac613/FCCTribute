@@ -2,18 +2,35 @@ body {
   margin-top: 60px;
 }
 
-.honeydew-background 
-    {background-color: honeydew;
+.honeydew-background {
+  background-color: honeydew;
  }
   .black-border
   {border-color: black;
     border-width: 5px;
     border-style: solid;
   }
-  .top-border {border-top: solid .5px;
+  .top-border {
+    border-top: solid .5px;
   }
-  h1 {font-family: BangkokBold;
+  h1 {
+    font-family: BangkokBold;
     font-size: 50px;
+}
+    
+   #img-div {
+     text-align: center;
+     border: solid;
+     padding: 20px;
+     width: 60%;
+     margin: 0 auto;
+     background-color: #FEF7EE;
+    }
+#image {
+  margin: 0 auto;
+
+}
+    
   }
   h2 {font-family: BangkokBold;
     font-size: 25px;
@@ -22,12 +39,14 @@ body {
     font-size: 22px;
     margin: 0 auto;
 }
-  ul {font-family: Bangkok;
-    margin: 0 auto;
+
+#tribute-info {
+  width: 60%;
+  margin: 0 auto;
+  font-family: Georgia;
+  padding: 30px 0px 0px 0px;
 }
-  img {display: block;
-    margin: 0 auto;
- }
-  h3 {;
-  font-size: 20px;
- }
+
+h5 {
+  text-align: center;
+}
